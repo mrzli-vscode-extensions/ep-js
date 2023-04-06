@@ -2,7 +2,7 @@
   "name": "ep-js",
   "displayName": "EP JS",
   "description": "JS Extension Pack",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "goran-mrzljak",
   "repository": {
     "type": "git",
@@ -17,8 +17,10 @@
   "extensionPack": [
     "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode",
-    "steoates.autoimport",
+    "firsttris.vscode-jest-runner",
+    "meganrogge.template-string-converter",
+    "nrwl.angular-console",
     "prisma.prisma",
-    "nrwl.angular-console"
+    "steoates.autoimport"
   ]
 }
