@@ -2,7 +2,7 @@
   "name": "ep-js",
   "displayName": "EP JS",
   "description": "JS Extension Pack",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "goran-mrzljak",
   "repository": {
     "type": "git",
@@ -16,6 +16,7 @@
   ],
   "extensionPack": [
     "dbaeumer.vscode-eslint",
+    "digitalbrainstem.javascript-ejs-support",
     "esbenp.prettier-vscode",
     "firsttris.vscode-jest-runner",
     "meganrogge.template-string-converter",

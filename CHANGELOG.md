@@ -6,6 +6,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [0.0.4] - 2023-04-28
+
+### Added
+
+- Add `digitalbrainstem.javascript-ejs-support`.
+
 ## [0.0.3] - 2023-04-06
 
 ### Added
