@@ -2,7 +2,7 @@
   "name": "ep-js",
   "displayName": "EP JS",
   "description": "JS Extension Pack",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "publisher": "goran-mrzljak",
   "repository": {
     "type": "git",
@@ -22,6 +22,7 @@
     "meganrogge.template-string-converter",
     "nrwl.angular-console",
     "prisma.prisma",
-    "steoates.autoimport"
+    "steoates.autoimport",
+    "yoavbls.pretty-ts-errors"
   ]
 }

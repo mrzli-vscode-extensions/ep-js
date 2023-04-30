@@ -6,6 +6,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [0.0.5] - 2023-04-30
+
+### Added
+
+- Add `yoavbls.pretty-ts-errors`.
+
 ## [0.0.4] - 2023-04-28
 
 ### Added
